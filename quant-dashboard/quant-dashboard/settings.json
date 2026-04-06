@@ -1,0 +1,9 @@
+{
+  "theme": "Midnight Cyan",
+  "selected_crypto": "bitcoin",
+  "historical_days": 30,
+  "portfolio_capital": 10000,
+  "positions": [],
+  "swing_min_score": 0,
+  "token_lists": []
+}
